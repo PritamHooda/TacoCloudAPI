@@ -1,5 +1,7 @@
-This repository is for building projects to test and learn different languages and frameworks. 
-Below how the different projects break down in terms of the language, framework or feature being tested.
+## Purpose
+This is a POC learning project to grasp the concepts of Spring boot - Spring MVC, Spring Data JPA, etc.
+## Usage
 
-Spring/Spring-boot:
-1. taco-cloud 
+## Tech Stack
+1. Java 8
+2. Spring-boot v-x.x
